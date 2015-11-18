@@ -14,7 +14,7 @@ setbkcolor(i/12);
 printf("\n\t\t\t\tDownloading\t\t\t\t\t\n\n\n\n\n");
 	for(int s=19;s>=0;s--)
 	{
-	printf("\t");
+	printf("\t");//
 	}
 
 gotoxy(38,8);
